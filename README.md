@@ -15,13 +15,13 @@ The system supports multiple languages, making it inclusive and user-friendly fo
 ---
 
 ## Features
-🌐 Multilingual support (English, Hindi, Gujarati)
-💬 Real-time chatbot interaction
-📚 FAQ-based and semantic search responses
-🧠 AI-powered response matching using vector database
-🛠️ Admin panel to upload PDFs/CSV for knowledge updates
-🎨 Interactive UI with theme switching
-🔗 Easy integration with college websites
+- Multilingual support (English, Hindi, Gujarati)
+- Real-time chatbot interaction
+- FAQ-based and semantic search responses
+- AI-powered response matching using vector database
+- Admin panel to upload PDFs/CSV for knowledge updates
+- Interactive UI with theme switching
+- Easy integration with college websites
 
 ---
 
