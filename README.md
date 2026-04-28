@@ -44,7 +44,32 @@ The system supports multiple languages, making it inclusive and user-friendly fo
 5. **User sees the answer** in the chat window.
 
 ## Project Structure
-CampusSarthi_ChatBot/ │ ├── 📂 frontend/ │ ├── index.html │ ├── static/ │ │ ├── style.css │ │ └── script.js │ └── Admin_UI/ │ ├── admin.html │ ├── admin.css │ ├── admin.js │ ├── login.html │ ├── login.css │ └── login.js │ ├── 📂 backend/ │ ├── main.py │ ├── faqs.json │ └── test_lang.py │ ├── 📂 vector_db/ # Stored embeddings (ChromaDB) ├── 📂 uploads/ # Uploaded PDFs/CSV files │ ├── .gitignore ├── README.md └── requirements.txt
+CampusSarthi_ChatBot/
+│
+├── 📂 frontend/
+│   ├── index.html
+│   ├── static/
+│   │   ├── style.css
+│   │   └── script.js
+│   └── Admin_UI/
+│       ├── admin.html
+│       ├── admin.css
+│       ├── admin.js
+│       ├── login.html
+│       ├── login.css
+│       └── login.js
+│
+├── 📂 backend/
+│   ├── main.py
+│   ├── faqs.json
+│   └── test_lang.py
+│
+├── 📂 vector_db/      # ChromaDB embeddings storage
+├── 📂 uploads/        # Uploaded PDFs and CSV files
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ## Installation
 
