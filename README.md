@@ -7,18 +7,21 @@
 ---
 
 ## Overview
-Campus Sarthi is a multilingual chatbot designed to assist students and faculty in navigating college-related queries.  
-It provides instant answers about courses, faculty, library, exams, and general campus information, supporting multiple languages for inclusivity.
+Campus Sarthi is a multilingual AI-powered chatbot designed to assist students and faculty with college-related queries.
+It provides instant, accurate responses about courses, faculty details, exams, library services, and general campus information.
+
+The system supports multiple languages, making it inclusive and user-friendly for a diverse audience.
 
 ---
 
 ## Features
-- Language-agnostic support (English, Hindi, Gujarati, etc.)
-- Quick responses to frequently asked questions (FAQs)
-- Admin interface for uploading PDFs and CSVs to update the knowledge base
-- Interactive front-end with theme switching
-- Real-time chat responses
-- Easy integration with college websites
+🌐 Multilingual support (English, Hindi, Gujarati)
+💬 Real-time chatbot interaction
+📚 FAQ-based and semantic search responses
+🧠 AI-powered response matching using vector database
+🛠️ Admin panel to upload PDFs/CSV for knowledge updates
+🎨 Interactive UI with theme switching
+🔗 Easy integration with college websites
 
 ---
 
