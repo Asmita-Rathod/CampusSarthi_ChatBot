@@ -41,25 +41,13 @@ It provides instant answers about courses, faculty, library, exams, and general 
 5. **User sees the answer** in the chat window.
 
 ## Project Structure
-CampusSarthi-chatbot/
-│
-├── frontend/ # HTML, CSS, JS files
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-├── backend/ # FastAPI backend files
-│ ├── main.py
-│ └── utils.py
-├── vector_db/ # Chroma vector DB for chatbot knowledge
-├── uploads/ # PDFs and CSV files uploaded via admin
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+CampusSarthi_ChatBot/ │ ├── 📂 frontend/ │ ├── index.html │ ├── static/ │ │ ├── style.css │ │ └── script.js │ └── Admin_UI/ │ ├── admin.html │ ├── admin.css │ ├── admin.js │ ├── login.html │ ├── login.css │ └── login.js │ ├── 📂 backend/ │ ├── main.py │ ├── faqs.json │ └── test_lang.py │ ├── 📂 vector_db/ # Stored embeddings (ChromaDB) ├── 📂 uploads/ # Uploaded PDFs/CSV files │ ├── .gitignore ├── README.md └── requirements.txt
 
 ## Installation
 
 1.Clone the repository:
 
-git clone https://github.com/sonali19705/CampusSarthi-chatbot.git
+git clone https://github.com/Asmita-Rathod/CampusSarthi_ChatBot.git
 
 cd CampusSarthi-chatbot
 
